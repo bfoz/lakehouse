@@ -1,0 +1,29 @@
+Web ID	Access ID	Salesorder Number	Submitted	Shipping Method	UPS Shipper Account Number	Customer Number	Account Number	Payment Method	Purchase Order	Backorder Shipping Method	Backorder Hold Days
+15000211	31086	19746324	05/20/07 17:42:16	UPS Ground		2393839	0	Debit / Credit Card		
+
+Shipping Address
+First Name	Last Name	Company	Mail Stop	Address Line 1	Address Line 2	City	State	Postal Code	Country	Email	Telephone
+BRANDON	FOSDICK			1553 Vista Club Circle	Apt 202	Santa Clara	CA	95054	USA	BFOZ@TERRANDEV.COM	408-393-2734
+
+Billing Address
+First Name	Last Name	Company	Mail Stop	Address Line 1	Address Line 2	City	State	Postal Code	Country	Email	Telephone
+BRANDON	FOSDICK			1553 Vista Club Circle	Apt 202	Santa Clara	CA	95054	USA		408-393-2734
+
+Order Notes
+N/A
+
+Index	Quantity	Part Number	Description	Customer Reference	Backorder Quantity	Unit Price USD	Extended Price USD
+1	10	160-1414-1-ND	LED GREEN CLEAR 0805 SMD		0	0.08700	$0.87000
+2	10	399-1158-1-ND	CAP 10000PF 50V CERAMIC X7R 0805		0	0.03300	$0.33000
+3	10	P200ACT-ND	RES 200 OHM 1/8W 5% 0805 SMD		0	0.07700	$0.77000
+4	20	568-1623-1-ND	DIODE SW DBL 50V 215MA HS SOT23		0	0.08000	$1.60000
+5	5	604-00043-ND	IC FTDI FT232RL USB-SRL 28-SSOP		0	4.26400	$21.32000
+6	5	A31727CT-ND	CONN MINI USB RCPT RA TYPE B SMD		0	1.76000	$8.80000
+7	8	277-1283-ND	CONN TERM BLOCK 2.54MM 12POS		0	6.91000	$55.28000
+8	30	NDC7002NCT-ND	MOSFET 2N-CH 50V 510MA SSOT6		0	0.42500	$12.75000
+9	5	PIC18F4580-I/PT-ND	IC PIC MCU FLASH 16KX16 44TQFP		0	11.75000	$58.75000
+						Subtotal	$160.47
+						Handling	$0.00
+						Shipping	unknown
+						Estimated Sales Tax	$13.24
+						Total	unknown

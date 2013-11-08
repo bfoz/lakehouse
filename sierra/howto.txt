@@ -1,0 +1,9 @@
+CAM Processor
+Open ~/eagle/gerb274x_sierra.cam
+Process Job
+mv *.cmp *.gpi *.plc *.pls *.sol *.stc *.sts $jobdir
+Open /usr/local/share/eagle/cam/excellon.cam
+Process Job
+mv *.drd *.dri $jobdir
+Create readme.txt
+zip

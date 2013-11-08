@@ -1,0 +1,47 @@
+EAGLE Version 4.15 Copyright (c) 1988-2005 CadSoft
+
+Electrical Rule Check for /home/bfoz/eagle/lakehouse/Bridge/pic_can_bridge.sch at 11/26/2005 22:49:55 
+
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin MCP1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin MCP1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC4P VCC connected to +5V
+WARNING: Sheet 1/1: POWER Pin QG1 VCC connected to +5V
+WARNING: Only 1 Pin on net A4
+WARNING: Only 1 Pin on net B4
+WARNING: Only 1 Pin on net B5
+WARNING: Only 1 Pin on net C1
+WARNING: Only 1 Pin on net C2
+WARNING: Only 1 Pin on net D0
+WARNING: Only 1 Pin on net D1
+WARNING: Only 1 Pin on net D2
+WARNING: Only 1 Pin on net D3
+WARNING: Only 1 Pin on net D4
+WARNING: Only 1 Pin on net D5
+WARNING: Only 1 Pin on net D6
+WARNING: Only 1 Pin on net D7
+WARNING: Only 1 Pin on net E0
+WARNING: Only 1 Pin on net E1
+WARNING: Only 1 Pin on net E2
+WARNING: Sheet 1/1, Net GND: missing Junction at (7 2.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 6.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 6.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (1.2 0.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (1.6 0.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.3 0.5)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (6.9 6.5)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (1.6 1.3)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (2.3 1.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (1 6.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (1 6.7)
+WARNING: Sheet 1/1, Net MCLR: missing Junction at (1.5 4.6)
+WARNING: Sheet 1/1, Net RX0BF: missing Junction at (3.7 3.9)
+WARNING: Sheet 1/1, Net RX1BF: missing Junction at (3.8 4)
+
+Board and schematic are consistent
+
+    0 errors
+   38 warnings

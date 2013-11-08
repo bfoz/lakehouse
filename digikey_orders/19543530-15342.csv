@@ -1,0 +1,28 @@
+Web ID,Access ID,Salesorder Number,Submitted,Shipping Method,UPS Shipper Account Number,Customer Number,Account Number,Payment Method,Purchase Order,Backorder Shipping Method,Backorder Hold Days
+19543530,15342,20896139,11/18/07 16:07:49,UPS Ground,,2393839,0,Debit / Credit Card,,
+
+Shipping Address
+First Name,Last Name,Company,Mail Stop,Address Line 1,Address Line 2,City,State,Postal Code,Country,Email,Telephone
+BRANDON,FOSDICK,,,1553 Vista Club Circle,Apt 202,Santa Clara,CA,950540000,USA,BFOZ@TERRANDEV.COM,408-393-2734
+
+Billing Address
+First Name,Last Name,Company,Mail Stop,Address Line 1,Address Line 2,City,State,Postal Code,Country,Email,Telephone
+BRANDON,FOSDICK,,,1553 Vista Club Circle,Apt 202,Santa Clara,CA,950540000,USA,,00
+
+Order Notes
+N/A
+
+Index,Quantity,Part Number,Description,Customer Reference,Backorder Quantity,Unit Price ,Extended Price 
+1,20,4608X-1-103LF-ND,RES NET BUSSED 10K OHM 8-SIP,,0,0.27900,5.58000
+2,5,PIC18F4580-I/PT-ND,IC PIC MCU FLASH 16KX16 44TQFP,,0,11.75000,58.75000
+3,20,240-2389-1-ND,FERRITE 1.5A 40 OHM 0805 SMD,,0,0.07500,1.50000
+4,10,300-7202-1-ND,OSCILLATOR 4.0000 MHZ SMD,,0,3.15000,31.50000
+5,5,604-00043-ND,IC FTDI FT232RL USB-SRL 28-SSOP,,0,4.10400,20.52000
+6,20,277-1283-ND,CONN TERM BLOCK 2.54MM 12POS,,0,5.99200,119.84000
+7,10,A31727CT-ND,CONN MINI USB RCPT RA TYPE B SMD,,0,1.43400,14.34000
+8,100,NDC7002NCT-ND,MOSFET 2N-CH 50V 510MA SSOT6,,0,0.31860,31.86000
+,,,,,,Subtotal,283.89000
+,,,,,,Handling,0.00000
+,,,,,,Shipping,unknown
+,,,,,,Estimated Sales Tax,23.42000
+,,,,,,Total,unknown

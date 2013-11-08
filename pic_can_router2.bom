@@ -1,0 +1,19 @@
+Partlist exported from /home/bfoz/eagle/lakehouse/pic_can_router2.sch at  2/22/2002 15:28:19 
+
+Qty Value        Device       Parts                      
+1                78XXL        IC2                        
+2                557564-1     J1, J12                    
+1                C-USC0805    C11                        
+1                F09HP        X1                         
+1                MTA06-100    ICSPCON                    
+1                SG-615P      U$1                        
+7   0.1uF        C-USC0805    C2, C3, C6, C7, C8, C9, C10
+2   1uF          C-USC1206    C1, C4                     
+1   10uF         C-USC1210    C5                         
+2   124          R-US_R0805   R1, R2                     
+1   BAV70_       BAV70_       U$2                        
+1   MAX232"      MAX232"      IC4                        
+1   MCP2510-I/SO MCP2510-I/SO MCP1                       
+1   PIC16F877L   PIC16F877L   IC1                        
+1   RAPC712"     RAPC712"     U$3                        
+1   UC5350D      UC5350D      IC3                        

@@ -1,0 +1,49 @@
+Photoplotter Info File: /home/bfoz/eagle/lakehouse/SPST_Node/pic_can_switch_v2.gpi
+
+ Date              : 12/02/2007 20:57:50 
+ Plotfile          : /home/bfoz/eagle/lakehouse/SPST_Node/pic_can_switch_v2.sts
+ Apertures         : generated: 
+ Device            : Gerber photoplotter with RS-274-X aperture generation
+
+Parameter settings:
+
+ Emulate Apertures : no
+ Emulate Thermal   : no
+ Emulate Annulus   : no
+ Tolerance Draw  + :  0.00 %
+ Tolerance Draw  - :  0.00 %
+ Tolerance Flash + :  0.00 %
+ Tolerance Flash - :  0.00 %
+ Rotate            : no
+ Mirror            : no
+ Optimize          : yes
+ Auto fit          : yes
+ OffsetX           : 0inch
+ OffsetY           : 0inch
+
+Plotfile Info:
+
+ Coordinate Format : 2.4
+ Coordinate Units  : Inch
+ Data Mode         : Absolute
+ Zero Suppression  : None
+ End Of Block      : *
+
+Apertures used:
+
+ Code     Shape     Size                  used
+
+ D10      draw      0.0060inch              54
+ D11      round     0.2362inch               4
+ D12      oval      0.1320inch x 0.0720inch     9
+ D13      round     0.1560inch               1
+ D14      oval      0.0850inch x 0.1559inch    48
+ D15      rectangle 0.0756inch x 0.0835inch     2
+ D16      rectangle 0.0693inch x 0.0614inch     6
+ D17      round     0.0425inch               2
+ D18      round     0.1536inch               2
+ D19      round     0.0660inch               8
+ D20      oval      0.0624inch x 0.1144inch    32
+ D21      rectangle 0.0614inch x 0.0693inch     2
+ D22      round     0.0475inch              19
+

@@ -1,0 +1,67 @@
+EAGLE Version 4.16r2 Copyright (c) 1988-2006 CadSoft
+
+Electrical Rule Check for /home/bfoz/eagle/lakehouse/Relay/pic_can_relay_v2.sch at 12/01/2007 17:10:48 
+
+WARNING: Sheet 1/1: POWER Pin IC1 VDD0 connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VSS0 connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VSS1 connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VDD1 connected to +5V
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 OSCI
+WARNING: Sheet 1/1: POWER Pin IC4 GND1 connected to GND
+WARNING: Sheet 1/1: POWER Pin IC4 GND2 connected to GND
+WARNING: Sheet 1/1: POWER Pin IC4 GND3 connected to GND
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 _CTS
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 _DSR
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 _DCD
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC4 _RI
+WARNING: Sheet 1/1: POWER Pin IC4 VCCIO connected to USB_5V
+WARNING: Sheet 1/1: POWER Pin IC4 AGND connected to GND
+WARNING: Sheet 1/1: POWER Pin IC4 VCC connected to USB_5V
+WARNING: Sheet 1/1: POWER Pin U$13 VDD connected to +5V
+WARNING: Only 1 Pin on net PWREN#
+WARNING: Sheet 1/1, Net GND: missing Junction at (4.3 0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (4.7 0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.1 0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.3 1.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.4 1.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.5 1.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (5.6 1.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 6.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 6.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2.1 1.5)
+WARNING: Sheet 1/1, Net GND: missing Junction at (3.5 0.2)
+WARNING: Sheet 1/1, Net GND: missing Junction at (3.9 0.2)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (4.3 1)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (4.7 1)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (5.1 1)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (1.9 6)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (3 6.6)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (3.9 1)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 4.8)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 5.2)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 5.4)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 6.2)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 6.4)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 6.6)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 6.8)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 3.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.2 3.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 6.2)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 6.4)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 6.6)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 6.8)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 3.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.8 4.8)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.8 5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.8 5.2)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.8 5.4)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (9.2 3.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (1 6.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (1 6.7)
+WARNING: Sheet 1/1, Net USB_5V: missing Junction at (5.3 3.5)
+
+Board and schematic are consistent
+
+    5 errors
+   53 warnings

@@ -1,6 +1,6 @@
 EAGLE Version 4.03 Copyright (c) 1988-2001 CadSoft
 
-Electrical Rule Check for /home/bfoz/eagle/lakehouse/pic_can_switch.sch at  9/29/2001 18:25:11 
+Electrical Rule Check for /home/bfoz/eagle/lakehouse/pic_can_switch.sch at 10/10/2001 23:12:18 
 
 WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
 WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
@@ -13,6 +13,10 @@ WARNING: Sheet 1/1, Net N$6: missing Junction at (38.1 116.84)
 WARNING: Sheet 1/1, Net GND: missing Junction at (177.8 68.58)
 WARNING: Sheet 1/1, Net GND: missing Junction at (22.86 162.56)
 WARNING: Sheet 1/1, Net GND: missing Junction at (22.86 167.64)
+WARNING: Sheet 1/1, Net GND: missing Junction at (30.48 12.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (40.64 12.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (50.8 12.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (58.42 12.7)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (162.56 48.26)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (162.56 50.8)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (187.96 104.14)
@@ -31,11 +35,14 @@ WARNING: Sheet 1/1, Net +5V: missing Junction at (220.98 139.7)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (220.98 144.78)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (220.98 149.86)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (220.98 154.94)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (40.64 33.02)
 WARNING: Sheet 1/1, Net +5V: missing Junction at (5.08 99.06)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (50.8 33.02)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (58.42 33.02)
 WARNING: Sheet 1/1, Net +12V: missing Junction at (25.4 165.1)
 WARNING: Sheet 1/1, Net +12V: missing Junction at (25.4 170.18)
 
 Board and schematic are consistent
 
     0 errors
-   32 warnings
+   39 warnings

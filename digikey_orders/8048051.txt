@@ -1,0 +1,34 @@
+Web ID	Access ID	Salesorder Number	Submitted	Shipping Method	UPS Shipper Account Number	Customer Number	Account Number	Payment Method	Purchase Order	Backorder Shipping Method	Backorder Hold Days
+8048051	10041	16466554	11/26/05 17:27:50	Federal Express Saver (3-Day Delivery)		2393839	0	Debit / Credit Card		
+
+Shipping Address
+First Name	Last Name	Company	Mail Stop	Address Line 1	Address Line 2	City	State	Postal Code	Country	Email	Telephone
+BRANDON	FOSDICK			1543 Vista Club Circle	Apt 201	Santa Clara	CA	950540000	USA	BFOZ@TERRANDEV.COM	408-393-2734
+
+Billing Address
+First Name	Last Name	Company	Mail Stop	Address Line 1	Address Line 2	City	State	Postal Code	Country	Email	Telephone
+BRANDON	FOSDICK			1543 Vista Club Circle	Apt 201	Santa Clara	CA	950540000	USA		408-393-2734
+
+Order Notes
+N/A
+
+Index	Quantity	Part Number	Description	Customer Reference	Backorder Quantity	Unit Price USD	Extended Price USD
+1	10	A31424-ND	CONN MOD JACK 8-8 RT/A PCB 50AU		0	0.70000	$7.00000
+2	100	495-1905-1-ND	CAP CERM 1.0UF 10V X5R 10% 0805		0	0.03280	$3.28000
+3	100	490-1683-1-ND	CAP CER .1UF 16V 10% X7R 0805		0	0.05010	$5.01000
+4	5	PIC16F877A-I/PT-ND	IC MCU FLASH 8K 20MHZ 44-TQFP		0	9.23000	$46.15000
+5	10	490-1819-1-ND	CAP CER 10UF 10V 20% X5R 1206		0	0.68000	$6.80000
+6	100	490-1790-1-ND	CAP CER 1.0UF 25V 20% X7R 1206		0	0.20220	$20.22000
+7	25	568-1623-1-ND	DIODE SW DBL 50V 215MA HS SOT23		0	0.06680	$1.67000
+8	2	A23302-ND	CONN D-SUB RECPT R/A 9POS PCB AU		0	2.13000	$4.26000
+9	2	A23276-ND	CONN D-SUB PLUG R/A 9POS PCB AU		0	2.14000	$4.28000
+10	1	MAX232ACSE-ND	IC 2DVR/2RCVR RS232 5V 16-SOIC		0	5.51000	$5.51000
+11	10	A26984-ND	CONN HOUSING 5POS .100 POLAR		0	0.41000	$4.10000
+12	100	A25993-ND	CONN SOCKET 20-24AWG TIN CRIMP		0	0.12410	$12.41000
+13	10	A26985-ND	CONN HOUSING 6POS .100 POLAR		0	0.45000	$4.50000
+14	25	A19433-ND	CONN HEADER VERT 6POS .100 TIN		0	0.17000	$4.25000
+						Subtotal	$129.44
+						Handling	$0.00
+						Shipping	unknown
+						Sales Tax	$0.00
+						Total	unknown

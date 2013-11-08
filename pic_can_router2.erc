@@ -1,0 +1,32 @@
+EAGLE Version 4.08r2 Copyright (c) 1988-2001 CadSoft
+
+Electrical Rule Check for /home/bfoz/eagle/lakehouse/pic_can_router2.sch at  2/21/2002 22:21:29 
+
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin MCP1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin MCP1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin U$1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC4P VCC connected to +5V
+WARNING: Sheet 1/1, Net N$6: missing Junction at (1500 4600)
+WARNING: Sheet 1/1, Net GND: missing Junction at (7000 2700)
+WARNING: Sheet 1/1, Net GND: missing Junction at (1200 500)
+WARNING: Sheet 1/1, Net GND: missing Junction at (1600 500)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2000 500)
+WARNING: Sheet 1/1, Net GND: missing Junction at (2300 500)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (6400 1900)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (6400 2000)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (1600 1300)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (200 3900)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (2000 1300)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (2300 1300)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (9200 6600)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (9200 6800)
+WARNING: Sheet 1/1, Net +5V: wire overlaps pin at (7600 5500)
+
+Board and schematic are consistent
+
+    0 errors
+   23 warnings
