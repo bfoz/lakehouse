@@ -1,0 +1,41 @@
+EAGLE Version 4.03 Copyright (c) 1988-2001 CadSoft
+
+Electrical Rule Check for /home/bfoz/eagle/lakehouse/pic_can_relay.sch at  9/30/2001 16:53:16 
+
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin IC1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin MCP1 VDD connected to +5V
+WARNING: Sheet 1/1: POWER Pin MCP1 VSS connected to GND
+WARNING: Sheet 1/1: POWER Pin OSC VDD connected to +5V
+WARNING: Sheet 1/1, Net N$6: missing Junction at (1.4 4.6)
+WARNING: Sheet 1/1, Net GND: missing Junction at (7 2.7)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 6.4)
+WARNING: Sheet 1/1, Net GND: missing Junction at (0.9 6.6)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (6.4 1.9)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (6.4 2)
+WARNING: Sheet 1/1, Net +5V: missing Junction at (0.2 3.9)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 4.1)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 4.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 4.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 4.7)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 5.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 5.7)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 5.9)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (7.7 6.1)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 4.1)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 4.3)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 4.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 4.7)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 5.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 5.7)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 5.9)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (8.7 6.1)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (1 6.5)
+WARNING: Sheet 1/1, Net +12V: missing Junction at (1 6.7)
+
+Board and schematic are consistent
+
+    0 errors
+   32 warnings
