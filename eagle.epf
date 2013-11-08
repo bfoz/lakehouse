@@ -1,26 +1,20 @@
 [Eagle]
-Version="04 16 20"
-Platform="Linux"
+Version="06 05 00"
+Platform="Windows"
 Serial="62191E841E-LSR-WLM-1EL"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/usr/local/share/eagle/lbr/con-amp.lbr"
-UsedLibrary="/usr/local/share/eagle/lbr/maxim.lbr"
-UsedLibrary="/usr/local/share/eagle/lbr/rcl.lbr"
 UsedLibrary="house.lbr"
-UsedLibrary="/home/bfoz/eagle/microchip-pic18f2480_2580_4480_4580.lbr"
-UsedLibrary="/home/bfoz/eagle/ftdichip.lbr"
-UsedLibrary="/home/bfoz/eagle/con-cypressindustries.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="130 143 1198 931"
+Loc="416 202 1015 601"
 State=2
 Number=0
 
 [Desktop]
-Screen="2560 1024"
+Screen="1440 831"
 Window="Win_1"
